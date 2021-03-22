@@ -13,4 +13,4 @@ function myFunction (name) {
  // Only change code above this line 
 }
  console.log(myFunction(school));
- module.export = {school, myFunction};
+ module.exports = {school, myFunction};
