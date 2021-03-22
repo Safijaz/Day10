@@ -13,4 +13,4 @@ function myFunction (roar) {
  // Only change code above this line 
 }
  console.log(myFunction(lion));
- module.export = {lion, myFunction};
+ module.exports = {lion, myFunction};
