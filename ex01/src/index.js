@@ -13,4 +13,4 @@ function myFunction (myObj) {
 
 // Only change code above this line 
 console.log (myFunction(myPet));
- module.export = {myPet,myFunction};
+ module.exports = {myPet,myFunction};
