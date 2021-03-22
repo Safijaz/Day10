@@ -12,4 +12,4 @@ var lion =
 }
  // Only change code above this line 
  console.log(myFunction());
- module.export = myFunction;
+ module.exports = myFunction;
