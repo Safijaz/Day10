@@ -4,9 +4,7 @@ var myClothes=
   shirt:"Nike", 
   shoes: "Converse"
  };
-
-function myFunction (myObj) {
-    
+function myFunction (myObj) {  
  var hatValue=myObj.hat;
  var shirtValue=myObj.shirt;
  var shoesValue=myObj.shoes;
@@ -14,4 +12,4 @@ function myFunction (myObj) {
 }
 // Only change code above this line 
  console.log (myFunction(myClothes));
- module.export = {myClothes};
+ module.exports = {myClothes};
