@@ -14,4 +14,4 @@ function myFunction (myObj) {
 }
 // Only change code above this line 
  console.log (myFunction(myFood));
- module.export = {myFood};
+ module.exports = {myFood};
